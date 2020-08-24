@@ -1,4 +1,4 @@
-A E-Commerce Application make for Avishkar 2K18 These are the seatures which we need to implement and have implemented.
+It is an e-kart based software .It allows multiple user to login at same which are in same network using client side application to buy and sell products and much more.. 
 Basic features
 
 User features
